@@ -1,0 +1,30 @@
+.app{
+    height: 100vh;;
+}
+
+.app_body{
+    display: flex;
+    height: 100vh;
+    display: flex;
+    flex: 1;
+    justify-content: center !important;
+}
+
+
+.submitBtn{
+    color: white !important;
+    background-color: blue !important;
+    margin-top: 2rem !important;
+    margin-left: 50% !important;
+    padding: 10px;
+}
+
+.submitBtn > h4{
+    font-size: 1rem !important;
+}
+
+.input_area{
+    width: 60px !important;
+    margin-top: 2rem !important;
+    display: flex;
+}
